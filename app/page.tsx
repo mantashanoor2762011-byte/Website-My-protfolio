@@ -421,14 +421,14 @@ export default function Home() {
     {/* 7. WEB DEVELOPMENT */}
 
     <a
-      href="https://your-web-development-assignments.vercel.app"
+      href="https://my-assignments-web-site.vercel.app/"
       target="_blank"
       rel="noopener noreferrer"
       className="website-card"
     >
 
       <img
-        src="/images/web-development.png"
+        src="/images/assignment.png"
         alt="Web Development Assignments"
       />
 
